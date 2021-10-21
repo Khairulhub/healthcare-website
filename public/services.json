@@ -1,0 +1,28 @@
+[
+    {
+      "_id": "616ffe77c0a09d2344daeb9b",
+      "index": 0,
+      "name": "Huber Terrell",
+      "picture": "https://media.istockphoto.com/photos/glass-bottles-in-production-in-the-tray-of-an-automatic-liquid-a-picture-id1298788278?b=1&k=20&m=1298788278&s=170667a&w=0&h=2IjFx78DAp5lRUIAVzTKXOcP46ZRdmVwgKguHLL7lTc=",
+      "ditails": "This is about clinics and medicine",
+      "phone": "+1 (920) 466-2857"
+    },
+    {
+      "_id": "616ffe77947cde9b5162aa5e",
+      "index": 1,
+      "name": "Gallegos Maynard",
+      "picture": "https://media.istockphoto.com/photos/pediatricians-office-picture-id1266493570?b=1&k=20&m=1266493570&s=170667a&w=0&h=00WwUKj-NitMGEFW1Nwt9ScMVXp0zW8AJsGyroLtdTQ=",
+      "ditails": "This is about clinics and medicine",
+      
+      "phone": "+1 (834) 551-2222"
+    },
+    {
+      "_id": "616ffe7773f17ca1dd39bfed",
+      "index": 2,
+      "name": "Courtney Shepard",
+      "picture": "https://media.istockphoto.com/photos/portrait-of-friendly-laughing-pharmacist-working-in-modern-farmacy-picture-id1336139439?b=1&k=20&m=1336139439&s=170667a&w=0&h=4pE-e-4a4DoWd9_9NRaQsDZyE-_E1eFC7Hhm7f6ek4c=",
+      "ditails": "This is about clinics and medicine",
+      
+      "phone": "+1 (816) 523-2714"
+    }
+  ]
