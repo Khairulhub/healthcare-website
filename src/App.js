@@ -12,6 +12,7 @@ import Booking from './Components/Booking/Booking';
 import Services from './Components/Services/Services';
 import AuthProvider from './Context/AuthProvider';
 import PrivateRoute from './Components/LogIn/PrivateRoute/PrivateRoute';
+import SignIn from './Components/SignIn/SignIn';
 
 
 function App() {
@@ -39,6 +40,9 @@ function App() {
           </Route>
           <Route path="/login">
            <Login></Login>
+          </Route>
+          <Route path="/signup">
+           <SignIn></SignIn>
           </Route>
           <Route path="*">
            <NotFound></NotFound>

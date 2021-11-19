@@ -3,6 +3,7 @@ import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import useAuth from '../../Hook/useAuth';
+import SignIn from '../SignIn/SignIn'
 
 import './LogIn.css'
 
@@ -56,8 +57,9 @@ const LogIn = () => {
                         </small>
                         <small>
                             <Link to="/signup" >
-                               SignIn 
+                            SignIn
                             </Link>
+                            
                         </small>
                     </div>
                 </form>

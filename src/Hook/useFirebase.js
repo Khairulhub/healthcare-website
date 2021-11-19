@@ -4,8 +4,6 @@ import initializeAuthentication from "../Components/firebase/firebase.init";
 
 initializeAuthentication();
 const googleProvider = new GoogleAuthProvider();
-
-
 const useFirebase = () =>{
     const auth = getAuth();
     const [user,setuser] = useState({});
